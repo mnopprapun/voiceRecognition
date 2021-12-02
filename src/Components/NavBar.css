@@ -1,0 +1,16 @@
+.link {
+	display:flex;
+	justify-content: space-around;
+	min-height: 8vh;
+	background-color: rgb(76, 177, 240);
+	position: flex;
+	width: 100%;
+	align-items: center;
+	letter-spacing: 3px;
+	font-weight: bold;
+	color:white !important;
+
+}
+.link:hover{
+		text-transform: capitalize;
+}
